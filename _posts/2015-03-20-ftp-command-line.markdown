@@ -11,5 +11,7 @@ First of all I try Filezilla but soon I find some comments that it doesn't suppl
 
 Luckily the built-in FTP command meets my need. Just check it out [here][Scripting-ftp-transfers].
 
+There is one problem, after I successfully login the remote machine with FTP, the subsequent operation can not work until I specifically enter the PASSIVE mode.
+
 [Scripting-ftp-transfers]:	http://hints.macworld.com/article.php?story=20010125232914252
 
